@@ -7,7 +7,12 @@ const newObj2 = {
 const obj = {
     abc: "parth",
     newKey: "hi",
-    bc: "parth"
+    bc: "parth",
+    key2: "pushbu"
+}
+
+const obj2 = {
+    
 }
 
 const newObj = {
