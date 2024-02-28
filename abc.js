@@ -12,7 +12,7 @@ const obj = {
 }
 
 const obj2 = {
-    
+    name: "pushbu3"
 }
 
 const newObj = {
